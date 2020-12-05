@@ -1,5 +1,6 @@
 1,Altaf Quadri,Accounting
 2,Nas Quadri,Economics
-3,Sal Quadri,Theatre4
+3,Sal Quadri,Theatre
 4,Mo Dna,Genetics
 5,Vivica,Sports
+6,James Earl,Accounting
